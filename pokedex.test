@@ -1,0 +1,8 @@
+pokedex={"Bulbasaur":"Grass/Poison",
+         "Squirtle":"Water",
+         "Charmander":"Fire"}
+
+choice= input("Name a Generation 1 starter Pokemon:\n>")
+
+print(pokedex[choice])
+
