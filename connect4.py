@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import numpy as np
-import pygame
+import pygame as pg
 import sys
 import math
  
